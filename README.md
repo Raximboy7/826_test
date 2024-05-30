@@ -12,11 +12,11 @@
 
 <b>Windows</b> `.\venv\scripts\activate`
 
-3. Kutubxonalarni o'rnat!
+3. <h3>Kutubxonalarni o'rnat!
 
 `pip install -r requiterments.txt`
 
-4. Kodni ishga tushur!
+4. <h3>Kodni ishga tushur!
 
 `python main.py`
 
